@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/sfx">
+        <file alias="beep">beep.wav</file>
+    </qresource>
+</RCC>
